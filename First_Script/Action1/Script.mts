@@ -6,3 +6,4 @@ Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("check_out_bt
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("HOME").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("HOME")_;_script infofile_;_ZIP::ssf6.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").Sync @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping")_;_script infofile_;_ZIP::ssf7.xml_;_
 Browser("Advantage Shopping").CloseAllTabs @@ hightlight id_;_329324_;_script infofile_;_ZIP::ssf8.xml_;_
+wait(2)
